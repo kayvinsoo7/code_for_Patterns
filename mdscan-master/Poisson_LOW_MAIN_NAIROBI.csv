@@ -1,0 +1,8 @@
+Penalty,No of literals,Subset,Size,Counts,IDR,Size (%),Count (%),P value
+0.3,11,mvpa c phase1[-0.0 - 8820.0] AND ses site quintile c phase1[2 OR 3 OR 4 OR 5] AND egfr c phase1[74.75 - 197.09] AND bmi c phase1[18.95 - 25.77] AND age phase1[30.0 - 50.0] AND waist hip r c phase1[0.65 - 0.94] AND smoking status c phase1[0 OR 2],390,90,0.466,20.11,9.37,4.08677983928035e-12
+0.8,5,bmi c phase1[12.97 - 27.49] AND waist hip r c phase1[0.65 - 0.94] AND age phase1[30.0 - 48.0] AND hdl phase1[0.18 - 1.85] AND egfr c phase1[74.75 - 197.09],546,140,0.517,28.16,14.57,3.2153944753460676e-13
+1.0,5,age phase1[30.0 - 52.0] AND waist hip r c phase1[0.65 - 0.94] AND bmi c phase1[12.97 - 25.77] AND hdl phase1[0.18 - 1.85] AND egfr c phase1[74.75 - 197.09],640,174,0.549,33.01,18.11,3.140483229743342e-13
+2.0,4,egfr c phase1[87.31 - 197.09] AND bmi c phase1[12.97 - 25.77] AND waist hip r c phase1[0.65 - 0.94] AND hdl phase1[0.18 - 1.85],745,216,0.585,38.42,22.48,1.078150218590559e-12
+4.5,3,hdl phase1[0.18 - 1.85] AND waist circumference phase1[560.0 - 894.93] AND age phase1[30.0 - 48.0],584,163,0.563,30.12,16.96,1.2142913281612495e-11
+5.0,2,bmi c phase1[18.95 - 27.49] AND age phase1[30.0 - 48.0],622,192,0.623,32.08,19.98,2.1014384841991873e-09
+15.5,1,age phase1[30.0 - 48.0],1014,381,0.758,52.29,39.65,4.7889843509670825e-06

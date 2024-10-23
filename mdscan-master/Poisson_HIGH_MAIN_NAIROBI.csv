@@ -1,0 +1,8 @@
+Penalty,No of literals,Subset,Size,Counts,IDR,Size (%),Count (%),P value
+0.3,11,bmi c phase1[20.49 - 62.8] AND age phase1[50.0 - 67.0] AND occupation phase1[0 OR 1 OR 4] AND egfr c phase1[13.94 - 102.42] AND waist hip r c phase1[0.87 - 9.02] AND cholesterol 1 phase1[3.06 - 9.93] AND waist circumference phase1[823.0 - 1480.0] AND sex[0] AND triglycerides phase1[0.63 - 11.81],127,155,2.463,6.55,16.13,2.197804012902472e-25
+0.8,9,waist hip r c phase1[0.87 - 9.02] AND occupation phase1[0 OR 1 OR 4] AND triglycerides phase1[0.93 - 11.81] AND bmi c phase1[27.49 - 33.55] AND sex[0] AND hdl phase1[1.17 - 1.27] AND cholesterol 1 phase1[4.25 - 9.93],12,28,4.708,0.62,2.91,6.424494754994821e-16
+1.0,7,waist hip r c phase1[0.87 - 9.02] AND smoking status c phase1[0] AND triglycerides phase1[0.93 - 11.81] AND bmi c phase1[27.49 - 33.55] AND sex[0] AND hdl phase1[1.17 - 1.27] AND cholesterol 1 phase1[4.25 - 9.93],11,26,4.769,0.57,2.71,3.846203534521874e-15
+1.5,4,waist hip r c phase1[0.87 - 9.02] AND bmi c phase1[18.95 - 62.8] AND age phase1[50.0 - 67.0] AND sex[0],237,232,1.975,12.22,24.14,1.3452072114295764e-20
+4.5,3,waist hip r c phase1[0.87 - 9.02] AND age phase1[50.0 - 67.0] AND sex[0],245,235,1.935,12.64,24.45,1.1561499945333808e-19
+5.0,2,age phase1[54.0 - 67.0] AND sex[0],188,179,1.921,9.7,18.63,1.056474732452252e-15
+15.5,1,age phase1[54.0 - 67.0],370,285,1.554,19.08,29.66,6.260394974739316e-11
